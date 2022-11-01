@@ -4,8 +4,8 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Building a classification model from scratch ||
-| Dataset | Titanic Data ||
+| Lesson | Building a classification model from scratch | [Here](./classification-model.ipynb) |
+| Dataset | Titanic Data | [Here](./titanic.csv) |
 
 ## Lesson Outline
 - Titanic Data
